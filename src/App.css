@@ -1,0 +1,41 @@
+.hs-carousel-pagination .active {
+  background-color: #4f9451;
+  border: none;
+}
+.Facts {
+  background-image: url("/Facts.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.login-img {
+  background-image: url("/green.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0;
+  /* min-height: 521px; */
+  height: 100%;
+}
+.auth .auth-body{
+  min-height: calc(100vh - 58.78px - 74.78px);
+}
+.auth footer {
+  margin-top: 0;
+  border-top-right-radius: 0;
+}
+.my-section {
+  height: calc(100vh - 60px);
+}
+.my-step:last-of-type {
+  flex: 0;
+}
+
+
+
+
+#remote-videos video {
+  margin: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: 200px;
+  height: auto;
+}
