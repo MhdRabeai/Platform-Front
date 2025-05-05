@@ -18,7 +18,7 @@
     "@preline/accordion": "^2.5.0",
     "@preline/strong-password": "^2.5.0",
     "@preline/toggle-password": "^2.5.0",
-    "agora-rtc-sdk-ng": "^4.22.2",
+    "agora-rtc-sdk-ng": "^4.23.3",
     "antd": "^5.22.2",
     "axios": "^1.7.7",
     "peer": "^1.0.2",
