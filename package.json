@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.13.5",
     "@google/generative-ai": "^0.21.0",
     "@mui/icons-material": "^6.1.8",
-    "@mui/material": "^6.1.8",
+    "@mui/material": "^7.0.0",
     "@preline/accordion": "^2.5.0",
     "@preline/strong-password": "^2.5.0",
     "@preline/toggle-password": "^2.5.0",
